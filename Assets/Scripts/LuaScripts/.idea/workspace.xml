@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="098ea187-2b34-4723-9650-f816416e6729" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="LuaProjectDemo" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="NewLua" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZsuheVglsRLRuP8l69fbwS6Jah" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LuaFramework" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.30574712" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="小应用程序">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="应用程序">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="098ea187-2b34-4723-9650-f816416e6729" name="默认的" comment="" />
+      <created>1558668012262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558668012262</updated>
+      <workItem from="1558668015197" duration="233000" />
+      <workItem from="1558939595404" duration="11000" />
+      <workItem from="1559010342575" duration="1673000" />
+      <workItem from="1559023415025" duration="4302000" />
+      <workItem from="1559028133820" duration="3245000" />
+      <workItem from="1559118222601" duration="3705000" />
+      <workItem from="1559202817403" duration="3035000" />
+      <workItem from="1559283322474" duration="3635000" />
+      <workItem from="1559289075726" duration="941000" />
+      <workItem from="1559290187495" duration="1832000" />
+      <workItem from="1560311783304" duration="543000" />
+      <workItem from="1560322737329" duration="1137000" />
+      <workItem from="1560326330427" duration="1474000" />
+      <workItem from="1560392375744" duration="668000" />
+      <workItem from="1560394493704" duration="1863000" />
+      <workItem from="1585640250224" duration="3902000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2356" y="349" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585641746918">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2356" y="349" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1585641746918" />
+    <state x="2682" y="448" key="FileChooserDialogImpl" timestamp="1585642984005">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2682" y="448" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1585642984005" />
+    <state x="2542" y="394" key="NewModule_or_Project.wizard" timestamp="1585642989014">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2542" y="394" key="NewModule_or_Project.wizard/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1585642989014" />
+    <state x="2325" y="106" key="SettingsEditor" timestamp="1585643007534">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2325" y="106" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1585643007534" />
+    <state x="2277" y="394" key="new project wizard" timestamp="1585642826969">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2277" y="394" key="new project wizard/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1585642826969" />
+  </component>
+</project>

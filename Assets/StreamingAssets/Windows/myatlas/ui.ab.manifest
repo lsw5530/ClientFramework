@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3639636480
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e1473fcce01b2f0c885503945f9b330d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AB_Resources/MyAtlas/Ui/ui_atlas_icon_common.png
+- Assets/AB_Resources/MyAtlas/Ui/createrole Atlas.png
+- Assets/AB_Resources/MyAtlas/Ui/ui_atlas_img_local_normal.png
+- Assets/AB_Resources/MyAtlas/Ui/Main Atlas.png
+- Assets/AB_Resources/MyAtlas/Ui/ui_atlas_battle.png
+- Assets/AB_Resources/MyAtlas/Ui/Common Atlas.png
+- Assets/AB_Resources/MyAtlas/Ui/mmap.png
+Dependencies: []

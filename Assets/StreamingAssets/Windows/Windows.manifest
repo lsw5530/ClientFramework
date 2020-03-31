@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2741589298
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: myatlas/background.ab
+      Dependencies: {}
+    Info_1:
+      Name: myatlas/npc.ab
+      Dependencies: {}
+    Info_2:
+      Name: myatlas/packages.ab
+      Dependencies: {}
+    Info_3:
+      Name: myatlas/ui.ab
+      Dependencies: {}
+    Info_4:
+      Name: uiprefabs/uiprefabs.ab
+      Dependencies:
+        Dependency_0: myatlas/background.ab
+        Dependency_1: myatlas/packages.ab
+        Dependency_2: myatlas/ui.ab
+    Info_5:
+      Name: mainscenes/mainscenes.ab
+      Dependencies: {}

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84857c39-4944-47a6-9419-507999bffb2f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="H:/maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="H:\maven\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true" />
+  </component>
+  <component name="ProjectId" id="1ZszwHKUqgJT064LuDlZeyHxkE1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.30574712" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RunManager">
+    <configuration name="testlua" type="lua.app" factoryName="Lua Application">
+      <module name="LuaFramework" />
+      <option name="program" value="lua.exe" />
+      <option name="file" value="$PROJECT_DIR$/src/StartGame.lua" />
+      <option name="workingDir" value="$PROJECT_DIR$/src" />
+      <option name="debuggerType" value="2" />
+      <option name="params" value="" />
+      <option name="charset" value="UTF-8" />
+      <option name="showConsole" value="true" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84857c39-4944-47a6-9419-507999bffb2f" name="Default Changelist" comment="" />
+      <created>1585642827011</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585642827011</updated>
+      <workItem from="1585642829870" duration="1985000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2334" y="238" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585644989412">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2334" y="238" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1585644989412" />
+    <state x="2659" y="323" key="FileChooserDialogImpl" timestamp="1585644288036">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2659" y="323" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1585644288036" />
+    <state width="1860" height="386" key="GridCell.Tab.0.bottom" timestamp="1585644992798">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1860" height="386" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1585644992798" />
+    <state width="1860" height="386" key="GridCell.Tab.0.center" timestamp="1585644992798">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1860" height="386" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1585644992798" />
+    <state width="1860" height="386" key="GridCell.Tab.0.left" timestamp="1585644992798">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1860" height="386" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1585644992798" />
+    <state width="1860" height="386" key="GridCell.Tab.0.right" timestamp="1585644992798">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1860" height="386" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1585644992798" />
+    <state width="1860" height="386" key="GridCell.Tab.1.bottom" timestamp="1585644992799">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1860" height="386" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1585644992799" />
+    <state width="1860" height="386" key="GridCell.Tab.1.center" timestamp="1585644992799">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1860" height="386" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1585644992799" />
+    <state width="1860" height="386" key="GridCell.Tab.1.left" timestamp="1585644992798">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1860" height="386" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1585644992798" />
+    <state width="1860" height="386" key="GridCell.Tab.1.right" timestamp="1585644992799">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1860" height="386" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1585644992799" />
+    <state x="415" y="71" key="SettingsEditor" timestamp="1585642882645">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="415" y="71" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1585642882645" />
+    <state x="2254" y="215" key="new project wizard" timestamp="1585644297575">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2254" y="215" key="new project wizard/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1585644297575" />
+    <state x="2543" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1585644816264">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2543" y="255" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1585644816264" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="lua-line">
+          <url>file://$PROJECT_DIR$/src/ProjectHotFix.lua</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="lua-line">
+          <url>file://$PROJECT_DIR$/src/StartGame.lua</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
