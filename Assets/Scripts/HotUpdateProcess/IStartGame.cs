@@ -29,6 +29,7 @@ namespace HotUpdateProcess
     public interface IStartGame 
     {
         void ReceiveInfoStartRuning();
+
     }
 }
 
