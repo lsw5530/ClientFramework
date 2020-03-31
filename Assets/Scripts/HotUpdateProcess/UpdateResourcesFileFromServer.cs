@@ -85,7 +85,6 @@ namespace HotUpdateProcess
             WWW www = new WWW(fileURL);
             //等待www 加载完成，再往下运行。
             yield return www;
-
             //网络错误检查
             if ((www.error!=null) && (!string.IsNullOrEmpty(www.error)))
             {

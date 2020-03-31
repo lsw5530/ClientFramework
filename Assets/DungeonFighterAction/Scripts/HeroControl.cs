@@ -24,7 +24,7 @@ public class HeroControl : MonoBehaviour {
     private AnimatorStateInfo stateInfo;                   //动画状态信息
 
 
-    //[LuaCallCSharp]
+    [LuaCallCSharp]
     public void Start() {
 	    animator = this.GetComponent<Animator>();
 	}

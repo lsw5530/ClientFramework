@@ -46,6 +46,7 @@ namespace ABFW
         {
             //确定清单文件WWW下载路径
             _StrManifestPath = PathTools.GetWWWPath() + "/" + PathTools.GetPlatformName();
+            // Debug.LogError("确定清单文件WWW下载路径=="+_StrManifestPath);
             _ManifestObj = null;
             _ABReadManifest = null;
             _IsLoadFinish = false;
@@ -83,6 +84,7 @@ namespace ABFW
                         _IsLoadFinish = true;
                     }
                     else {
+                        Debug.LogError("_StrManifestPath=="+_StrManifestPath);
                         Debug.Log(GetType()+ "/LoadMainifestFile()/WWW下载出错，请检查！ _StrManifestPath="+ _StrManifestPath+"  错误信息： "+www.error);  
                     }
                 }

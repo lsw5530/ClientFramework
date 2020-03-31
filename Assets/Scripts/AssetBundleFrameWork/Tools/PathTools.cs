@@ -43,7 +43,8 @@ namespace ABFW
         /// </summary>
         public static string GetABOutPath()
         {
-            return GetPlatformPath() + "/" + GetPlatformName();
+            string path=GetPlatformPath() + "/" + GetPlatformName();
+            return path;
         }
 
         /// <summary>
@@ -53,12 +54,11 @@ namespace ABFW
         private static string GetPlatformPath()
         {
             string strReturnPlatformPath = string.Empty;
-
-
             switch (Application.platform)
             {
                 case RuntimePlatform.WindowsPlayer:
                 case RuntimePlatform.WindowsEditor:
+                case RuntimePlatform.OSXEditor:
                     strReturnPlatformPath = Application.streamingAssetsPath;
                     break;
                 case RuntimePlatform.IPhonePlayer:
@@ -84,6 +84,7 @@ namespace ABFW
             {
                 case RuntimePlatform.WindowsPlayer:
                 case RuntimePlatform.WindowsEditor:
+                case RuntimePlatform.OSXEditor:
                     strReturnPlatformName = "Windows";
                     break;
                 case RuntimePlatform.IPhonePlayer:
@@ -114,6 +115,7 @@ namespace ABFW
                 //Windows 主平台
                 case RuntimePlatform.WindowsPlayer:
                 case RuntimePlatform.WindowsEditor:
+                case RuntimePlatform.OSXEditor:
                     strReturnWWWPath = "file://" + GetABOutPath();
                     break;
                 //Android 平台
